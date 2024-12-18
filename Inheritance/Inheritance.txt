@@ -1,0 +1,11 @@
+ Mechanism in which one object acquires all the properties and behaviors of a parent object.
+
+ In other words, when subclass/child class acquires all the properties and behaviors 
+ from parent/superclass.
+
+ Reuse of Code.
+
+ SUPER CLASS: The class whose features are inherited is known as super class (or a 
+ base class or a parent class)
+
+ 
